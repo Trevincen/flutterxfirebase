@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869621888603",
+    "firebase_url": "https://latihanflutter-c226c.firebaseio.com",
+    "project_id": "latihanflutter-c226c",
+    "storage_bucket": "latihanflutter-c226c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869621888603:android:44dbf0309f3bf81326b17e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869621888603-ndsb2eial2srgdjsaouauq5fsvl39uod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpeP-MrDHXI5Y6hnxvyYAJGXrUf6lQWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869621888603-ndsb2eial2srgdjsaouauq5fsvl39uod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
